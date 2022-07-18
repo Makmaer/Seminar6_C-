@@ -51,18 +51,18 @@ int KolPositivChisel(int[] array)
 //Задача 41: 
 //Пользователь вводит с клавиатуры n чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
 
-/*Console.WriteLine("Введите кол-во чисел для ввода:");
+Console.WriteLine("Введите кол-во чисел для ввода:");
 int kol = Convert.ToInt32(Console.ReadLine());
 int[] mas = VvodMas(kol);
 PrintMas(mas);
 Console.WriteLine("Кол-во положительных чисел = " + KolPositivChisel(mas));
-*/
+
 
 //Задача 43: 
 //Напишите программу, которая найдёт точку пересечения двух прямых, 
 //заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
 
-double[] mas = VvodUravnenia(4);
-PrintUravn(mas);
+//double[] mas = VvodUravnenia(4);
+//PrintUravn(mas);
 
 
